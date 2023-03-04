@@ -1,6 +1,7 @@
 #### 👋 Hi, I’m @GraceBurke-88
 -  Currently pursuing a Bachelor of Science in Web and Information Systems. As a web developer and designer, my areas of expertise include React, Docker, Python Flask, HTML, CSS, Java, JavaScript, SQL, PHP, Python, Adobe Illustrator/Photoshop, and GitHub. I am seeking an internship to further build upon my skills and gain more experience in the field. I am passionate about combining my technical expertise and creativity to build innovative web solutions.
-#### 👀 I’m interested in website development.
+#### 👀 I’m interested in:
+- learning vue.js
 #### 🔭 I’m currently working on ...
 #### 🌱 I’m currently learning about: 
 - data science(neural networks), github collaboration, and python web development
