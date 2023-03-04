@@ -12,6 +12,8 @@
 #### 📈 GitHub Stats
 [![GitHub Status](https://github-readme-stats.vercel.app/api?username=GraceBurke-88)](https://github.com/yourusername)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GraceBurke-88&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ##### 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=GraceBurke-88)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -19,4 +21,5 @@
 GraceBurke-88/GraceBurke-88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
 
